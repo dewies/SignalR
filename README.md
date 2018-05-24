@@ -1,4 +1,4 @@
-ASP.NET Core SignalR
+ASP.NET Core SignalR - test igore
 ========
 
 [![Join the chat at https://gitter.im/aspnet/SignalR](https://badges.gitter.im/aspnet/SignalR.svg)](https://gitter.im/aspnet/SignalR?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
